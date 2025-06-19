@@ -1,0 +1,2 @@
+https://github.com/Kepupa/moodle-backend/tree/Kepupa-patch-1
+еще один репоз пездюков, соре там нет заданий про селекты
