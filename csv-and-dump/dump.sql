@@ -1,3 +1,10 @@
+-- в терминале хуярь 
+-- psql postgres
+-- create database demo;
+-- \q
+-- psql demo
+
+-- дальше вот эта глина в demo
 CREATE TABLE material_types ( id SERIAL PRIMARY KEY, material_type VARCHAR(100), percent_of_loss NUMERIC(4,2) );
 
 CREATE TABLE product_types ( id SERIAL PRIMARY KEY, product_type VARCHAR(100), koef_product_type NUMERIC(4,2) );
